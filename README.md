@@ -8,8 +8,8 @@ Trabajo con los siguientes lenguajes:
    
    
    
-### Estadisticas
+## Estadisticas
   <div class="offset-md-4" align="center" style="margin:10px;">
-    <img height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=killmasterMC&show_icons=true&theme=tokyonight" alt="Stats"> 
-    <a><img height="250" width="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killmasterMC&langs_count=8&theme=tokyonight" alt="Stats 2"</a>
+    <img height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=killmasterMC&show_icons=true&theme=algolia" alt="Stats"> 
+    <a><img height="250" width="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killmasterMC&langs_count=8&theme=algolia" alt="Stats 2"</a>
   </div>
