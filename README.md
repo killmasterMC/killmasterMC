@@ -10,6 +10,6 @@ Trabajo con los siguientes lenguajes:
 ## ESTADISTICAS
 
   <div class="offset-md-4" align="center" style="margin:10px;">
-    <img height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=killmasterMC&show_icons=true&theme=algolia" alt="Stats"> 
-    <a><img height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killmasterMC&langs_count=8&theme=algolia" alt="Stats 2"</a>
+    <img height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=killmasterMC&show_icons=true&theme=algolia&count_private=true" alt="Stats"> 
+    <a><img height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killmasterMC&langs_count=8&theme=algolia&langs_count=5" alt="Stats 2"</a>
   </div>
