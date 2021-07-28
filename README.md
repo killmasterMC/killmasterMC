@@ -14,14 +14,6 @@ Trabajo con los siguientes lenguajes:
     <a><img height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killmasterMC&langs_count=8&theme=algolia&langs_count=5" alt="Stats 2"</a>
   </div>
 
-  
-  
-  
-  <br>
-<a href="https://github.com/killmasterMC">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killmasterMC&langs_count=3&theme=dark">
-</a>
-
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=killmasterMC%239999&color=blue&style=for-the-badge)](https://discord.com/users/707604740774690918)
 
 
