@@ -13,13 +13,3 @@ Trabajo con los siguientes lenguajes:
     <img height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=killmasterMC&show_icons=true&theme=algolia&count_private=true" alt="Stats"> 
     <a><img height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killmasterMC&langs_count=8&theme=algolia&langs_count=5" alt="Stats 2"</a>
   </div>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707604740774690918)](https://discord.com/users/707604740774690918)
-
-
-
-<div align="left">
-  <a href="https://discord.com/users/707604740774690918">
-    <img src="https://lanyard-profile-readme.vercel.app/api/707604740774690918?animated=true" align="left" height="205">
-  </a>
-</div>
