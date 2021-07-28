@@ -16,9 +16,4 @@ Trabajo con los siguientes lenguajes:
 
   
   
-    <div class="offset-md-4" align="center" style="margin:10px;">
-    <img height="250" width="500" src="https://lanyard-profile-readme.vercel.app/api/155411408752869377?animated=true" alt="Stats"> 
-    <a><img height="250" width="300" src="https://lanyard-profile-readme.vercel.app/api/155411408752869377?animated=true" alt="Stats 2"</a>
-  </div>
-  
-  https://lanyard-profile-readme.vercel.app/api/155411408752869377?animated=true
+<img src="https://camo.githubusercontent.com/a1a21a6238abdbc4a2e44a9b92a9dc671dd74e1131f6673c6599e03be13ec72f/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f3135353431313430383735323836393337373f616e696d617465643d74727565" align="left" height="205" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/155411408752869377?animated=true" style="max-width:100%;">
