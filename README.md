@@ -14,7 +14,7 @@ Trabajo con los siguientes lenguajes:
     <a><img height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killmasterMC&langs_count=8&theme=algolia&langs_count=5" alt="Stats 2"</a>
   </div>
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=killmasterMC%239999&color=blue&style=for-the-badge)](https://discord.com/users/707604740774690918)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707604740774690918)](https://discord.com/users/707604740774690918)
 
 
 
