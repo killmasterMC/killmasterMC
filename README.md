@@ -13,7 +13,3 @@ Trabajo con los siguientes lenguajes:
     <img height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=killmasterMC&show_icons=true&theme=algolia&count_private=true" alt="Stats"> 
     <a><img height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killmasterMC&langs_count=8&theme=algolia&langs_count=5" alt="Stats 2"</a>
   </div>
-
-  
-  
-<img src="https://camo.githubusercontent.com/a1a21a6238abdbc4a2e44a9b92a9dc671dd74e1131f6673c6599e03be13ec72f/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f3135353431313430383735323836393337373f616e696d617465643d74727565" align="left" height="205" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/707604740774690918?animated=true" style="max-width:100%;">
