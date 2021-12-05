@@ -15,4 +15,4 @@ Trabajo con los siguientes lenguajes:
   </div>
   
   
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707604740774690918))
+<img src="https://camo.githubusercontent.com/4b5ddf616307ed91e6ccc8311cb4469198b68b0488ba3da5ab2b50e2cfcf1c85/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f383431323833383732393137343232313231" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/841283872917422121" style="max-width: 100%;">
