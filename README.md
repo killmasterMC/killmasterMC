@@ -19,4 +19,4 @@ Trabajo con los siguientes lenguajes:
 ## DISCORD
   
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707604740774690918?theme=dark&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else)](https://discord.com/users/707604740774690918)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707604740774690918?theme=dark&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=30px&hideBadges=true&idleMessage=Probably%20doing%20something%20else)](https://discord.com/users/707604740774690918)
