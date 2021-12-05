@@ -14,7 +14,5 @@ Trabajo con los siguientes lenguajes:
     <a><img height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killmasterMC&langs_count=8&theme=algolia&langs_count=5" alt="Stats 2"</a>
   </div>
   
-  
-<img src="https://camo.githubusercontent.com/4b5ddf616307ed91e6ccc8311cb4469198b68b0488ba3da5ab2b50e2cfcf1c85/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f383431323833383732393137343232313231" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/707604740774690918" style="max-width: 100%;">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:707604740774690918?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/:707604740774690918)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707604740774690918?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/707604740774690918)
