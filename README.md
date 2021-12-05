@@ -2,20 +2,20 @@
 
 Soy killmaster, esta es mi cuenta en la cual subo mis repositorios.
 
-##LENGUAJES
+## LENGUAJES
 
   - Python.
   - Java.
   - JavaScript.
   - Node.js.
 
-##INFO EXTRA
+## INFO EXTRA
 
   - Se creear bots de discord.
   - Se crear plugins.
   - Se utilizar python.
 
-##ESTADISTICAS
+## ESTADISTICAS
 
   <div class="offset-md-4" align="center" style="margin:10px;">
     <img height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=killmasterMC&show_icons=true&theme=algolia&count_private=true" alt="Stats"> 
