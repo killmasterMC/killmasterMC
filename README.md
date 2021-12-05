@@ -15,4 +15,4 @@ Trabajo con los siguientes lenguajes:
   </div>
   
   
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707604740774690918)](https://discord.com/users/707604740774690918)
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707604740774690918))
