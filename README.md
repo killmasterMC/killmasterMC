@@ -7,7 +7,6 @@ Soy killmaster, esta es mi cuenta en la cual subo mis repositorios.
   - Python.
   - Java.
   - JavaScript.
-  - Node.js.
 
 ## INFO EXTRA
 
