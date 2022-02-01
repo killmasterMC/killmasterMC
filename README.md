@@ -11,7 +11,7 @@ Soy killmaster, esta es mi cuenta en la cual subo mis repositorios.
 
 ## INFO EXTRA
 
-  - Se creear bots de discord.
+  - Se crear bots de discord.
   - Se crear plugins.
   - Se utilizar python.
 
