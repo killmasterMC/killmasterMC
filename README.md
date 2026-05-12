@@ -18,7 +18,7 @@
 <h2 align="center"> 👨‍💻 <em>Sobre mí</em> </h2>
 
 <p align="center">
-  Actualmente estoy enfocado en la Administración de Sistemas Informáticos en Red. Me encanta resolver problemas, automatizar procesos en entornos Linux y crear herramientas útiles. En mi tiempo libre, disfruto desarrollando bots y scripts personalizados, además de explorar el mundo de la ciberseguridad y el hardware.
+  ¡Hola! Soy <b>Alex (aka Killmaster)</b>. Actualmente estoy enfocado en la Administración de Sistemas Informáticos en Red. Me encanta resolver problemas, automatizar procesos en entornos Linux y crear herramientas útiles. En mi tiempo libre, disfruto desarrollando bots y scripts personalizados, además de explorar el mundo de la ciberseguridad y el hardware.
 </p>
 
 <br/>
